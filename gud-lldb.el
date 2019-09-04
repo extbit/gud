@@ -28,6 +28,9 @@
 
 ;; This file can be found from here:
 ;; `https://github.com/extbit/gud/gud-lldb.el'.
+;;
+;; It's implemented based on this one (not working properlly):
+;; https://raw.githubusercontent.com/ptrv/emacs.d/master/site-lisp/gud-lldb.el.
 
 ;;; Code:
 
